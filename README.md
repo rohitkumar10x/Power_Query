@@ -41,7 +41,7 @@ Any new file added to the data folder is automatically detected, transformed, va
 ---
 
 ## 🔍 Preview / Demo
-[Click Here to View Project Files](https://drive.google.com/drive/folders/1gwIgT1z3DYy0ftqyjJGl5wkkRtRFSAsY?dmr=1&ec=wgc-drive-globalnav-goto)
+https://drive.google.com/drive/folders/1gwIgT1z3DYy0ftqyjJGl5wkkRtRFSAsY?dmr=1&ec=wgc-drive-globalnav-goto)](https://github.com/rohitkumar10x/Power_Query/blob/main/Preview.jpg
 
 ---
 
