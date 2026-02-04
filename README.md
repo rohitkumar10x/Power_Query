@@ -41,7 +41,10 @@ Any new file added to the data folder is automatically detected, transformed, va
 ---
 
 ## 🔍 Preview / Demo[
-https://raw.githubusercontent.com/rohitkumar10x/Power_Query/main/Preview.jpg
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohitkumar10x/Power_Query/main/Preview.jpg" width="800"/>
+</p>
+
 
 ---
 
